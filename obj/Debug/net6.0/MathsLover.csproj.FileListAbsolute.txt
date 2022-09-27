@@ -1,0 +1,15 @@
+C:\Users\nwatt\Repos\MathsLover\bin\Debug\net6.0\MathsLover.exe
+C:\Users\nwatt\Repos\MathsLover\bin\Debug\net6.0\MathsLover.deps.json
+C:\Users\nwatt\Repos\MathsLover\bin\Debug\net6.0\MathsLover.runtimeconfig.json
+C:\Users\nwatt\Repos\MathsLover\bin\Debug\net6.0\MathsLover.dll
+C:\Users\nwatt\Repos\MathsLover\bin\Debug\net6.0\MathsLover.pdb
+C:\Users\nwatt\Repos\MathsLover\obj\Debug\net6.0\MathsLover.csproj.AssemblyReference.cache
+C:\Users\nwatt\Repos\MathsLover\obj\Debug\net6.0\MathsLover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nwatt\Repos\MathsLover\obj\Debug\net6.0\MathsLover.AssemblyInfoInputs.cache
+C:\Users\nwatt\Repos\MathsLover\obj\Debug\net6.0\MathsLover.AssemblyInfo.cs
+C:\Users\nwatt\Repos\MathsLover\obj\Debug\net6.0\MathsLover.csproj.CoreCompileInputs.cache
+C:\Users\nwatt\Repos\MathsLover\obj\Debug\net6.0\MathsLover.dll
+C:\Users\nwatt\Repos\MathsLover\obj\Debug\net6.0\refint\MathsLover.dll
+C:\Users\nwatt\Repos\MathsLover\obj\Debug\net6.0\MathsLover.pdb
+C:\Users\nwatt\Repos\MathsLover\obj\Debug\net6.0\MathsLover.genruntimeconfig.cache
+C:\Users\nwatt\Repos\MathsLover\obj\Debug\net6.0\ref\MathsLover.dll
